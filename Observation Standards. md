@@ -1,0 +1,28 @@
+# Observation Standard
+
+An **observation** is a factual account of an interaction, event, or change that reveals, or may reveal, something about the infrastructure underlying a system.
+
+### The Test
+Can it be verified? Can it be wrong?
+
+### Examples
+
+**✅ GOOD: Evidence**
+"Payment failed after changing SIM cards. Bank app blocked login. Required OTP sent to old number."
+- Date: 2026-07-20
+- System: Mobile Banking App
+- Gate: Gate 1 Identity
+
+**❌ BAD: Opinion**
+"Banks have bad systems."
+- Not verifiable
+- Not specific
+- Not useful in 5 years
+
+### What to Log
+Friction, failure, workaround, unexpected behavior, policy change, cost increase.
+
+### What NOT to Log
+Rants, predictions, product reviews, news headlines without personal interaction.
+
+*Preserve signal. Protect the Vault.*
