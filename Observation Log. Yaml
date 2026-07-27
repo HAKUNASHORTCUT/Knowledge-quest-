@@ -1,0 +1,44 @@
+name: Observation Log
+description: Capture raw friction in <3 minutes
+title: "Observation: "
+labels: ["observation"]
+body:
+    - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Describe the event in plain language
+    validations:
+      required: true
+    - type: textarea
+    id: why
+    attributes:
+      label: Why did it matter?
+      description: What friction or insight did this reveal?
+    validations:
+      required: true
+    - type: dropdown
+    id: gate
+    attributes:
+      label: Infrastructure Layer
+      options:
+                - Gate 0: Learning to See
+                - Gate 1: Identity
+                - Gate 2: Payments
+                - Gate 3: Ownership
+                - Gate 4: Distribution
+                - Gate 5: Command Centre
+                - Gate 6: AI & Automation
+                - Gate 7: Stewardship
+    validations:
+      required: true
+    - type: input
+    id: question
+    attributes:
+      label: Next Question
+      description: What do you want to investigate next?
+    - type: input
+    id: tags
+    attributes:
+      label: Tags
+      placeholder: "#gateX #friction"
