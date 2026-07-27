@@ -1,0 +1,29 @@
+# Observation Log
+
+**Date**: YYYY-MM-DD
+**ID**: Log_XXX
+
+### What happened?
+[Describe the event in plain language. What did you see, experience, or encounter?]
+
+### Why did it matter?
+[What friction, risk, or insight did this reveal?]
+
+### Infrastructure Layer
+[ ] Gate 0: Learning to See
+[ ] Gate 1: Identity
+[ ] Gate 2: Payments
+[ ] Gate 3: Ownership
+[ ] Gate 4: Distribution
+[ ] Gate 5: Command Centre
+[ ] Gate 6: AI & Automation
+[ ] Gate 7: Stewardship
+
+### Next Question
+[What does this make you want to investigate?]
+
+### Tags
+#gateX #friction #mechanism #pattern-candidate
+
+---
+**Status**: [Raw] [Promoted to Research] [Archived]
