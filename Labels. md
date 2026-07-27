@@ -1,0 +1,16 @@
+# Repository Labels
+
+Use these to route issues through the Flywheel:
+
+| Label | Purpose |
+| --- | --- |
+| `observation` | Raw friction from reality |
+| `field-note` | Observation + initial research |
+| `research` | Deep investigation in progress |
+| `pattern` | 3+ observations pointing to same mechanism |
+| `gate-candidate` | Ready to become Handbook principle |
+| `documentation` | Docs, templates, repo maintenance |
+| `question` | Something to investigate |
+| `dispatch` | HakunaShortcut public test |
+
+*Every issue should have 1 primary label.*
