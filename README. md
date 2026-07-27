@@ -1,0 +1,24 @@
+# Knowledge Quest
+
+**Observe reality. Reveal infrastructure. Preserve understanding.**
+
+The Knowledge Quest is a living body of infrastructure knowledge. We transform everyday observations into timeless principles.
+
+### Start Here
+- [Vision](./00_Foundation/VISION.md)
+- [Mission](./00_Foundation/MISSION.md)
+- [9 Core Principles](./00_Foundation/CORE_PRINCIPLES.md)
+- [The Knowledge Flywheel](./00_Foundation/KNOWLEDGE_FLYWHEEL.md)
+- [The Seven Gates](./00_Foundation/SEVEN_GATES.md)
+
+### How to Contribute
+1. **Observe**: Log friction in `01_Observation_Vault/` or open an [Observation Issue](.github/ISSUE_TEMPLATE/observation.yml)
+2. **Research**: Move observations to `04_Research/`
+3. **Distill**: Mature patterns become `06_Handbook/` Gates
+
+### Success Metrics
+Not followers. Not views.
+Observations captured. Patterns discovered. Principles validated. Systems stewarded.
+
+---
+*Building memory, not content.*
