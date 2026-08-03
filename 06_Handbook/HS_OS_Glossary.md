@@ -1,3 +1,3 @@
 # HS/OS Glossary
 
-(Placeholder) Glossary for HS/OS terms.
+<!-- TODO: v1.3 --> Glossary for HS/OS terms.

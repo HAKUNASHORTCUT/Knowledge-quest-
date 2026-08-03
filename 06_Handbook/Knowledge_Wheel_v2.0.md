@@ -1,3 +1,3 @@
 # Knowledge Wheel v2.0
 
-(Placeholder) Consolidated knowledge wheel documentation.
+<!-- TODO: v1.3 --> Consolidated knowledge wheel documentation.
