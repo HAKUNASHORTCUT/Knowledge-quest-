@@ -1,0 +1,51 @@
+# Log_041: Knowledge Wheel v2.0 - Evidence Before Synthesis
+
+**Date Logged**: 30 July 2026
+**Category**: OS / Knowledge Management / Framework
+
+### Headquarters Review: Critical Update
+**Old Wheel**: Field Note → Pattern → Publication
+**New Wheel**: Field Note → Investigation → Pattern → Archive → Review → Publication
+
+### Why "Investigation" Changes Everything
+**Doctrine**: Evidence comes before synthesis.
+We were jumping from observation straight to pattern. 
+Now we enforce: "Prove it before you claim it."
+
+This is how we avoid guru advice and stay operator-grade.
+
+### The Full Flywheel
+1.  **FIELD NOTE**: Capture raw signal from terrain
+2.  **INVESTIGATION**: Test, verify, cross-reference. Find counter-examples
+3.  **PATTERN**: Synthesize into principle. "The Equation" lives here
+4.  **ARCHIVE**: Store with tags, links, context. Make it searchable
+5.  **REVIEW**: Revisit old logs. Did the pattern hold? Update it
+6.  **PUBLICATION**: Dispatch. Milestone, not destination
+
+### Core Principle Reinforced
+**Publishing is a milestone. Learning is the destination.**
+
+This mirrors HS-OS Alpha operational cycle.
+It also maps to Elvis: Volume × Reflection × Consistency
+
+### HakunaShortcut Integration
+| Wheel Stage | 5 Gaps Link | Example |
+| --- | --- | --- |
+| **Field Note** | Opportunity + Demand | Moses has no clients |
+| **Investigation** | Knowledge + Compliance | Test: Can Moses actually withdraw? |
+| **Pattern** | The Equation | Knowledge=0 blocks income |
+| **Archive** | Cost | Reusable asset, cost → 0 over time |
+| **Review** | Trust | Did pattern hold for Anon too? |
+| **Publication** | Demand | Teach the pattern |
+
+### Strategic Impact
+Before: We published and moved on.
+Now: We publish, archive, review, and compound.
+This is infrastructure, not content.
+
+### Captain's Reflection
+We are no longer collecting posts.
+We are building a learning machine.
+The wheel doesn't end. It compounds.
+
+**Tags**: #knowledge_wheel #investigation #archive #review #hs_os #learning #infrastructure
