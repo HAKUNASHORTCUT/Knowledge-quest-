@@ -1,0 +1,38 @@
+# LOG_048: The Terrain Decides The Strategy
+**Date Logged**: 3 Aug 2026
+**Category**: Strategy / Conditions / Doctrine
+**Classification**: Doctrine
+**Status**: Active
+
+### Observation
+Two people. Same laptop. Same skills.
+Person A has rent due Friday.
+Person B has savings for 3 months.
+
+Person A MUST take Urgency Gate tasks.
+Person B SHOULD take Delayed Gate building.
+
+If they swap, both fail.
+
+### Knowledge Principle
+`The gate you should pick is determined by your conditions, 
+not by your ambition.`
+
+### The 4 Condition Variables
+1.  **Financial Runway**: Days until broke
+2.  **Capital Stock**: Money + Skills + Reputation
+3.  **Psychological Bandwidth**: Stress level, dependents
+4.  **Network Position**: Insider vs Outsider
+
+### Brian's Pivot Points
+Freebies → P2P → Spot → Futures
+Each pivot matched his changing conditions.
+When capital was 0: Freebies
+When capital grew: Spot
+When capital + greed: Futures → Crash
+
+### Failure Mode
+Using Delayed tactics in Urgency = Starvation
+Using Urgency tactics in Delayed = Poverty loop
+
+**Tags**: #strategy #conditions #urgency_gate #delayed_gate #terrain
