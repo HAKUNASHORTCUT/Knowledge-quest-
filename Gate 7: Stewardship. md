@@ -7,7 +7,7 @@
 TBD
 
 ## Lived Experience
-See: `01_Observation_Vault/Log_001.md`
+See: `Observation Vault/Log 001.md`
 
 ## Analogy
 TBD
