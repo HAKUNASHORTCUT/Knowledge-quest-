@@ -1,0 +1,27 @@
+# LOG_058: Payment Rails Redundancy - Build From Kenya Outward
+
+**Date:** 2026-08-06
+**Source:** Field Observation - Infrastructure Access
+**Tags:** #Payments #Infrastructure #Kenya #Redundancy #GlobalAccess #VaultPrinciple
+
+## Observation
+Global infrastructure is not globally accessible. Stripe has limited support for Kenyan businesses. Bottleneck is account opening, not just accepting payments. Features vary by country: payouts, onboarding, business types.
+
+Current toolkit: M-PESA, KCB, Binance, Airtel Money.
+
+## Pattern
+Discussions assume "if a tool exists, everyone can use it". Reality: geography, regulation, banking, compliance shape access. This is a digital infrastructure issue, not just a Stripe issue.
+
+## Vault Principle
+**Build payment stacks that work from Kenya outward, not stacks that mimic US/Europe.**
+Redundancy in rails beats dependence on one platform.
+
+## Leverage
+1. **Strategic Question First**: Who will be paying you? Substack readers, freelance clients, digital products, donations → different rail requirements
+2. **Current Stack**: M-PESA local, KCB banking, Binance crypto, Airtel Money backup
+3. **Evaluation**: Add international rails based on audience, not popularity
+
+## Links
+- Related: LOG_049 Infrastructure Before Applications
+- Related: LOG_057 MPESA Tariff Reduction
+- Framework: Knowledge Wheel v2.0 - Observation → Leverage
