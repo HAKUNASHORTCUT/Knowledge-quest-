@@ -1,0 +1,64 @@
+# LOG_082: The Tomato Analogy - Infrastructure Literacy
+
+**Date:** 2026-08-07
+**Classification:** Teaching Tool → Analogy → Gap Explanation
+**Source:** Field Explanation Note
+**Tags:** #Analogy #InfrastructureLiteracy #Education #Handbook #SystemsThinking #Kenya
+
+## The Analogy
+**Teaching someone to use ChatGPT without teaching infrastructure is like teaching someone to cook tomatoes without teaching them about farms, water, roads, or markets.**
+
+They can follow the recipe today.
+But when the tomatoes disappear, the price spikes, or the stove breaks...
+They have no idea why. And no way to adapt.
+
+## The Breakdown
+
+| What People Learn | What They Don't Learn | Result |
+| --- | --- | --- |
+| How to use ChatGPT | APIs, Cloud, Auth, Payments | Tool works until it doesn't |
+| How to send M-Pesa | Payment rails, KYC, Settlement | Stuck when limits hit |
+| How to post content | Distribution, Algorithms, Identity | Can't reach audience when platform changes |
+| How to drive | Roads, Traffic laws, Fuel, Licensing | Can't adapt when conditions change |
+
+## The Core Problem
+**We teach the interface. We skip the system.**
+
+It's like teaching driving without teaching roads.
+Like teaching cooking without teaching food systems.
+Like teaching "online earning" without teaching digital infrastructure.
+
+## Infrastructure Literacy = Understanding the Whole System
+When you understand:
+- **Where tomatoes come from** → Farms, water, supply chains
+- **How they get to market** → Roads, logistics, middlemen  
+- **Why prices change** → Seasonality, policy, demand
+- **What happens if one part fails** → Alternatives, resilience
+
+Then you don't just cook. You adapt. You build. You steward.
+
+Same with the digital economy.
+When you understand:
+- **Digital Identity** → Who you are online
+- **Internet Infrastructure** → DNS, IP, Cloud
+- **Payment Rails** → How value moves
+- **Trust Systems** → Reputation, KYC, risk
+- **Distribution** → How attention and value reach people
+
+Then you don't just use tools. You navigate. You build. You adapt when tools change.
+
+## Connection to the Ecosystem
+**Observation Vault** → Document when "tomatoes disappear"
+**HakunaShortcut** → Interpret why the supply chain failed
+**Infrastructure Handbook** → Teach people how farms, roads, and markets work
+
+**Goal:** Not better recipes. Better farmers.
+
+## The Mission Sentence
+**"The digital divide is no longer access to the internet. It's access to digital leverage."**
+And leverage comes from understanding the system beneath the tool.
+
+## Links
+- Related: LOG_081 Bridging The Gap - Infrastructure Literacy mission
+- Related: LOG_080 Human Factor - Humans navigate systems
+- Related: LOG_079 Ecosystem - Capture→Interpret→Distill→Teach
