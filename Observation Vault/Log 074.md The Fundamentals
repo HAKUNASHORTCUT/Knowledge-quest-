@@ -1,0 +1,97 @@
+‎# LOG_074: The Fundamentals - Layered Systems Thinking
+‎
+‎**Date:** 2026-08-07
+‎**Classification:** Framework → First Principles → Technology Stack
+‎**Source:** Fundamentals Analysis
+‎**Tags:** #Fundamentals #SystemsThinking #Infrastructure #Technology #Framework #VaultPrinciple #HakunaShortcut
+‎
+‎## Definition
+‎**Fundamentals**: Core principles or foundations that everything else is built on.
+‎If fundamentals are weak, the whole system becomes unstable.
+‎
+‎**Key Rule**: Fundamentals are what remain true even when tools, trends, or platforms change.
+‎
+‎## The 10 Technology Fundamentals
+‎**Layered from base to top:**
+‎
+‎1. **Infrastructure** - The physical foundation
+‎   Electricity, data centers, fiber, satellites, cell towers, devices
+‎
+‎2. **Networks** - How things connect
+‎   Internet, mobile, Wi-Fi, Bluetooth, payment networks
+‎
+‎3. **Protocols** - The agreed rules
+‎   HTTP/HTTPS, TCP/IP, SMTP, Blockchain consensus
+‎
+‎4. **Compute** - Ability to process information
+‎   CPUs, GPUs, Cloud, Edge
+‎
+‎5. **Data** - The raw material
+‎   Photos, GPS, transactions, customer records
+‎
+‎6. **Software** - Instructions that tell hardware what to do
+‎   OS, Apps, AI models, Websites
+‎
+‎7. **Security** - Protection of systems
+‎   Encryption, Authentication, Backups, Access control
+‎
+‎8. **Distribution** - How technology reaches users
+‎   App stores, Websites, APIs, CDNs
+‎
+‎9. **Economics** - Who pays, who owns, where value flows
+‎   Who captures profit?
+‎
+‎10. **Governance** - Rules around technology
+‎    Laws, Regulations, Standards, Privacy, Digital Identity
+‎
+‎**Each layer depends on the one beneath it.**
+‎
+‎## Systems View Applied to HakunaShortcut
+‎This maps directly to recent logs:
+‎- LOG_067: Infrastructure → Networks → Distribution = OKX Card stack
+‎- LOG_070: Bridge Principle = Who owns Infrastructure layer?
+‎- LOG_071: Folk Infrastructure = Workarounds at Protocol/Distribution layer
+‎- LOG_072: Empathy Economy = Security + Trust at Governance layer
+‎- LOG_073: Communication = Infrastructure for moving ideas
+‎
+‎## The Lens: Ask Better Questions
+‎**Don't ask**: "What app is this?"
+‎**Ask**: "Which layer of the technology stack am I looking at?"
+‎
+‎**Examples:**
+‎Q: "Should I use Binance or another exchange?"
+‎A: "What need am I solving?" → Move value across borders
+‎   "What purpose?" → Efficient, trusted transfer of value
+‎
+‎Q: "Is AI replacing jobs?"
+‎A: "What human need?" → Generating, analyzing, organizing information
+‎   "What purpose?" → Amplifying cognitive work
+‎
+‎## Vault Principle
+‎**Needs are constant. Purpose gives direction. Technology is simply today's implementation. Infrastructure makes it possible. Distribution makes it useful.**
+‎
+‎When you see the world through that sequence, new technologies stop looking like isolated inventions.
+‎They become different answers to the same enduring human needs.
+‎
+‎## First Principles Filter
+‎Before evaluating any tool, platform, or opportunity, ask:
+‎1. **Need**: What human need hasn't changed?
+‎2. **Purpose**: Why does this system exist?
+‎3. **Technology**: How does today's implementation fulfill it?
+‎
+‎Optimize for the underlying need, not the tool.
+‎
+‎## Link to OS
+‎Connects to LOG_058 Payment Rails: Infrastructure layer
+‎Connects to LOG_062 Decision Intelligence OS: Human Factor layer
+‎Connects to LOG_068 Timing Principle: Build on fundamentals before leverage
+‎Connects to LOG_073 Communication: Foundation layer below Infrastructure
+‎
+‎## Links
+‎- Related: LOG_058 Payment Rails Redundancy
+‎- Related: LOG_067 The Invisible Conversion Layer
+‎- Related: LOG_070 The Bridge Principle
+‎- Related: LOG_073 Communication - The Invisible Infrastructure
+‎- Arc: Arc 03 Movement | Arc 04 Leverage Points
+‎- Framework: Knowledge Wheel v2.0 - Fundamentals Layer
+‎
