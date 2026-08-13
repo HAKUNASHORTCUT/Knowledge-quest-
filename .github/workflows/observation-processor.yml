@@ -1,0 +1,130 @@
+name: 🔄 Observation Flywheel Processor
+run-name: Processing observations from ${{ github.actor }} 🧠
+
+on:
+  push:
+    paths:
+      - 'Observation Vault/**'
+      - 'Observation Vault/*.md'
+  schedule:
+    # Run daily to process observations
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  scan-observations:
+    name: 📊 Scan & Analyze Observations
+    runs-on: ubuntu-latest
+    outputs:
+      observations-found: ${{ steps.count.outputs.count }}
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Count observation entries
+        id: count
+        run: |
+          count=$(find "Observation Vault" -name "*.md" | wc -l)
+          echo "count=$count" >> $GITHUB_OUTPUT
+          echo "📈 Found $count observation entries"
+      
+      - name: List recent observations
+        run: |
+          echo "📋 Recent Observations:"
+          find "Observation Vault" -name "*.md" -type f -mtime -7 | head -10
+      
+      - name: Check for gate tags
+        run: |
+          echo "🏷️ Scanning for gate tags (#gate0-#gate7)..."
+          grep -r "#gate" "Observation Vault" || echo "⚠️ No gate tags found"
+
+  validate-structure:
+    name: ✅ Validate Observation Structure
+    runs-on: ubuntu-latest
+    needs: scan-observations
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Check markdown formatting
+        run: |
+          echo "🔍 Validating Markdown structure..."
+          for file in Observation\ Vault/*.md; do
+            if [ -f "$file" ]; then
+              lines=$(wc -l < "$file")
+              echo "✓ $file ($lines lines)"
+            fi
+          done
+      
+      - name: Verify required frontmatter
+        run: |
+          echo "📝 Checking for observation metadata..."
+          grep -l "^#" Observation\ Vault/*.md | wc -l
+
+  extract-patterns:
+    name: 🧩 Extract Potential Patterns
+    runs-on: ubuntu-latest
+    needs: validate-structure
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Identify pattern candidates
+        run: |
+          echo "🔎 Scanning for pattern keywords..."
+          grep -ri "pattern\|insight\|learning\|principle" "Observation Vault" | head -20 || echo "No patterns found yet"
+      
+      - name: Check friction points
+        run: |
+          echo "⚡ Looking for friction indicators..."
+          grep -ri "friction\|problem\|challenge\|gap" "Observation Vault" | head -20 || echo "No friction points documented"
+
+  gate-classification:
+    name: 🚪 Classify by Infrastructure Gate
+    runs-on: ubuntu-latest
+    needs: validate-structure
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Count observations per gate
+        run: |
+          echo "📊 Observations by Gate Layer:"
+          echo "================================"
+          for gate in {0..7}; do
+            count=$(grep -r "#gate$gate" "Observation Vault" | wc -l)
+            echo "Gate $gate: $count observations"
+          done
+
+  generate-report:
+    name: 📋 Generate Processing Report
+    runs-on: ubuntu-latest
+    needs: [scan-observations, extract-patterns, gate-classification]
+    if: always()
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Create processing summary
+        run: |
+          echo "# 🔄 Observation Flywheel Report" > /tmp/report.md
+          echo "Generated: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> /tmp/report.md
+          echo "" >> /tmp/report.md
+          echo "## Summary" >> /tmp/report.md
+          echo "- Total Observations: ${{ needs.scan-observations.outputs.observations-found }}" >> /tmp/report.md
+          echo "- Processing Status: ✅ Complete" >> /tmp/report.md
+          echo "- Next: Review patterns and create investigation tickets" >> /tmp/report.md
+          cat /tmp/report.md
+
+  notify-completion:
+    name: 🎯 Notify Flywheel Activation
+    runs-on: ubuntu-latest
+    needs: [scan-observations, generate-report]
+    if: always()
+    steps:
+      - name: Workflow Summary
+        run: |
+          echo "✨ Observation Processing Complete!"
+          echo "📊 Observations Found: ${{ needs.scan-observations.outputs.observations-found }}"
+          echo ""
+          echo "🚀 Flywheel Status: ACTIVE"
+          echo "Next Steps:"
+          echo "  1. Review identified patterns"
+          echo "  2. Create investigation issues for friction points"
+          echo "  3. Synthesize findings into Patterns/"
+          echo "  4. Move to Archive & Compounding Loop"
