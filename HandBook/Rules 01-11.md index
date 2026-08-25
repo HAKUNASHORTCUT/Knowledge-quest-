@@ -1,0 +1,106 @@
+# Rules — Index | HakunaShortcut Handbook
+**Vault:** 01_Rules / Canon
+**Total Rules:** 11 ( +1 Pending )
+**Last Updated:** 24th August 2026
+**Status:** Active
+
+> Knowledge is power. Systems are leverage. Ownership is resilience.
+
+---
+
+## Quick Navigation
+
+| # | Rule Name | Core Law | Source | File |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | Data Bundle Rule | Never let a platform hold > your next data bundle | Early Field Notes | `[[Handbook_Rule_01_Data_Bundle]]` |
+| 02 | Accumulation Rule | Accumulate to dilute | Early Field Notes | `[[Handbook_Rule_02_Accumulation]]` |
+| 03 | Blind Platform Rule | Platform isn't malicious, it's blind | Early Field Notes | `[[Handbook_Rule_03_Blind_Platform]]` |
+| 04 | Signal Rule | Dollars are a signal | Early Field Notes | `[[Handbook_Rule_04_Signal]]` |
+| 05 | Sentinel Rule | Every gate has a sentinel with incentives | Early Field Notes | `[[Handbook_Rule_05_Sentinel]]` |
+| 06 | Layer Rule | Locate your layer before building | Early Field Notes | `[[Handbook_Rule_06_Layer]]` |
+| 07 | Borrowed Ground Rule | Borrowed ground ≠ permanent residence | Early Field Notes | `[[Handbook_Rule_07_Borrowed_Ground]]` |
+| 08 | Portability Rule | Ownership = rights, Portability = continuity | Early Field Notes | `[[Handbook_Rule_08_Portability]]` |
+| 09 | Movement Rule | Infra = distance, Ownership = benefit | Log 008 Distribution | `[[Digital_Frontier_Dispatch_008_Distribution_Network]]` |
+| 10 | Protocol Rule | Map protocol, not interface | Log 009 Leverage Protocol | `[[Digital_Frontier_Dispatch_009_Leverage_Protocol]]` |
+| 11 | Six Layers Rule | Plug into 6 layers or burn out | Log 010 Leverage Points | `[[Digital_Frontier_Dispatch_010_Leverage_Points]]` |
+| 12* | Control Layer Rule | Prepare for the handoff | Log 011 Control Layers | `[[Digital_Frontier_Dispatch_011_The_Control_Layers]]` |
+
+*Rule #12 — Logged, pending canonization
+
+---
+
+## Canon Text
+
+### [[Handbook_Rule_01_Data_Bundle]]
+> **Rule #1:** Never let a single platform hold more than your next data bundle.
+> **Tags:** #rule #liquidity #resilience #early
+
+### [[Handbook_Rule_02_Accumulation]]
+> **Rule #2:** Accumulate to dilute. Do not withdraw at minimum threshold when flat fees eat your capital.
+> **Tags:** #rule #liquidity #fees #early
+
+### [[Handbook_Rule_03_Blind_Platform]]
+> **Rule #3:** The platform isn't malicious. It's blind to the last mile. Your job is to see what it cannot.
+> **Tags:** #rule #trust #visibility #early
+
+### [[Handbook_Rule_04_Signal]]
+> **Rule #4:** Dollars are not a product. Dollars are a signal — stop chasing capital, build the conditions that attract it.
+> **Tags:** #rule #value #trust #early
+
+### [[Handbook_Rule_05_Sentinel]]
+> **Rule #5:** Every gate has a sentinel. Every sentinel has incentives. Study the reason the lock was installed — not the lock itself.
+> **Tags:** #rule #access #incentives #early
+
+### [[Handbook_Rule_06_Layer]]
+> **Rule #6:** Value explains why opportunity appears. Infrastructure determines where it flows. Locate your layer before you build your strategy.
+> **Tags:** #rule #infrastructure #positioning #early
+
+### [[Handbook_Rule_07_Borrowed_Ground]]
+> **Rule #7:** Borrowed ground should never become permanent residence. The platform may introduce you. Ownership is what allows you to stay.
+> **Tags:** #rule #ownership #distribution #early
+
+### [[Handbook_Rule_08_Portability]]
+> **Rule #8:** Ownership protects your rights. Portability protects your continuity. An asset that cannot survive migration is not fully owned — it is parked on borrowed ground.
+> **Tags:** #rule #ownership #portability #resilience
+
+### [[Handbook_Rule_09_Movement]]
+> **Rule #9:** Movement is universal. Infrastructure determines how far value can travel. Ownership determines who benefits when it arrives.
+> **Source:** [[Digital_Frontier_Dispatch_008_Distribution_Network]] | Gate 03
+> **Tags:** #rule-9 #gate-3 #distribution
+
+### [[Handbook_Rule_10_Protocol]]
+> **Rule #10:** Do not optimize for the interface. Map the protocol. The dashboard tells you what happened. The architecture determines what becomes possible.
+> **Source:** [[Digital_Frontier_Dispatch_009_Leverage_Protocol]] | Gate 03
+> **Tags:** #rule-10 #gate-3 #protocol
+
+### [[Handbook_Rule_11_Six_Layers]]
+> **Rule #11:** Plug into the six layers — compute, payments, identity, distribution, trust, data — and effort compounds. Operate outside them, and you burn out against friction you can't see.
+> **Source:** [[Digital_Frontier_Dispatch_010_Leverage_Points]] | Gate 04
+> **Stack:** `[[Compute]]` | `[[Payments]]` | `[[Identity]]` | `[[Distribution]]` | `[[Trust]]` | `[[Data]]`
+> **Tags:** #rule-11 #gate-4 #leverage
+
+### [[Handbook_Rule_12_Control_Layer]] — PENDING
+> **Rule #12:** The control layer isn't a person you can appeal to, it is a chain of automated systems, each holding only part of the picture. Therefore: Prepare for the handoff between systems - not just the systems themselves.
+> **Source:** [[Digital_Frontier_Dispatch_011_The_Control_Layers]] | Gate 04
+> **Switches:** Identity → Liquidity → Clearing → Access
+> **Tags:** #rule-12 #gate-4 #control-layer #kenyan-question
+
+---
+
+## Related Quests
+
+- **Knowledge Quest ⭐:** `[[KQ_Star_Dispatch_Arcs_03-04]]` — Distills Rules #9-12
+- **Dispatch Index:** `[[02_Knowledge_Quest/Index]]` — Full chain 008-011
+- **Full Handbook:** `[[01_Rules/Handbook_Rules_01-11_Canon]]` — Complete canon text
+
+---
+
+## Integrity Check
+
+- [x] Rules 01-08 — Canon from early dispatches
+- [x] Rules 09-11 — Canon from Arcs 03-04
+- [ ] Rule 12 — Logged in 011, awaiting confirmation for canon entry
+
+**NEXT ACTION:** Confirm Rule #12 to finalize 01-12 set.
+
+END RULES INDEX
