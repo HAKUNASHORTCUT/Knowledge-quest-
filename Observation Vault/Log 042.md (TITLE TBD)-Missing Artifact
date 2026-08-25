@@ -1,0 +1,39 @@
+# LOG_042: [TITLE TBD] - Missing Artifact
+
+**Date Logged:** Unknown
+**Date Added to Vault:** 2026-08-07
+**Category:** Observation
+**Classification:** Missing Artifact → Evidence Debt
+**Status:** TODO v1.3
+**Tags:** #missing #debt #v1.3 #TwoGates #Dispatch_002
+
+## Note
+This artifact was referenced in `Dispatch_002` as evidence for the **Two Gates framework**.
+It was not recovered during `v1.2.1` batch commit.
+
+**Current State:** Referenced, but source file / screenshot / transcript not in Vault.
+
+## Impact
+Cannot cite LOG_042 as primary evidence until recovered or reconstructed.
+Two Gates framework currently stands on secondary references only.
+
+## Action Items v1.3
+1. **Track:** Keep in DEBT folder until resolved
+2. **Search:** Review old devices, notes, WhatsApp, Substack drafts for original
+3. **Reconstruct:** If original unrecoverable, rebuild from field memory + Dispatch_002 context
+4. **Rule:** Do not cite in public outputs until evidence exists
+
+## Reconstruction Criteria
+To close this debt we need:
+- Date of original observation
+- Source/context of the "Two Gates"
+- Raw evidence: screenshot, quote, or field note
+
+## Links
+- References: Dispatch_002
+- Related: LOG_079 Gates Framework - Identity, Trust, Payments...
+- Related: LOG_077 Frontier - Access barriers
+
+## Vault Principle
+Evidence before certainty. 
+No canon without artifact.
