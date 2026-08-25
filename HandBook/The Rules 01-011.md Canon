@@ -1,0 +1,100 @@
+# Handbook — The Rules | Canon 01-11
+**Vault:** HakunaShortcut | Digital Frontier
+**Status:** Battle-tested | Extracted in sequence
+**Last Updated:** 24th August 2026
+**Source:** Dispatches 001-011
+
+> Knowledge is power. Systems are leverage. Ownership is resilience.
+
+---
+
+### Rule #1: The Data Bundle Rule
+> Never let a single platform hold more than your next data bundle.
+
+**Layer:** Liquidity
+**Law:** Treat platforms as transaction pipes, not vaults.
+
+### Rule #2: The Accumulation Rule
+> Accumulate to dilute. Do not withdraw at minimum threshold when flat fees eat your capital.
+
+**Layer:** Liquidity / Fees
+**Law:** Flat fees punish small moves. Batch to protect margin.
+
+### Rule #3: The Blind Platform Rule
+> The platform isn't malicious. It's blind to the last mile. Your job is to see what it cannot.
+
+**Layer:** Trust / Visibility
+**Law:** No conspiracy needed. Limited context creates friction.
+
+### Rule #4: The Signal Rule
+> Dollars are not a product. Dollars are a signal — stop chasing capital, build the conditions that attract it.
+
+**Layer:** Value / Trust
+**Law:** Capital follows conditions, not requests.
+
+### Rule #5: The Sentinel Rule
+> Every gate has a sentinel. Every sentinel has incentives. Study the reason the lock was installed — not the lock itself.
+
+**Layer:** Access / Control
+**Law:** Understand incentive, not just obstacle.
+
+### Rule #6: The Layer Rule
+> Value explains why opportunity appears. Infrastructure determines where it flows. Locate your layer before you build your strategy.
+
+**Layer:** Infrastructure
+**Law:** Position before effort.
+
+### Rule #7: The Borrowed Ground Rule
+> Borrowed ground should never become permanent residence. The platform may introduce you. Ownership is what allows you to stay.
+
+**Layer:** Ownership / Distribution
+**Law:** Introduction ≠ residence.
+
+### Rule #8: The Portability Rule
+> Ownership protects your rights. Portability protects your continuity. An asset that cannot survive migration is not fully owned — it is parked on borrowed ground.
+
+**Layer:** Ownership / Resilience
+**Law:** If it can't move, you don't own it — you're parking.
+
+### Rule #9: The Movement Rule
+> Movement is universal. Infrastructure determines how far value can travel. Ownership determines who benefits when it arrives.
+
+**Source:** Log 008
+**Gate:** 03 - Movement
+**Pattern:** Distribution compounds early: Stranger → Reader → Subscriber → Archive → Trust
+
+### Rule #10: The Protocol Rule
+> Do not optimize for the interface. Map the protocol. The dashboard tells you what happened. The architecture determines what becomes possible.
+
+**Source:** Log 009
+**Gate:** 03 - Movement
+**Pattern:** Dashboard vs Protocol | Airport terminal ≠ Airport
+
+### Rule #11: The Six Layers Rule
+> Plug into the six layers — compute, payments, identity, distribution, trust, data — and effort compounds. Operate outside them, and you burn out against friction you can't see.
+
+**Source:** Log 010
+**Gate:** 04 - Architecture
+**Stack:** Compute | Payments | Identity | Distribution | Trust | Data
+**Modes:** Tenant (~1x) → Optimized (modest) → Operator (compounding)
+
+---
+
+### PENDING INJECTION
+
+**Rule #12: The Control Layer Rule**
+> The control layer isn't a person you can appeal to, it is a chain of automated systems, each holding only part of the picture. Therefore: Prepare for the handoff between systems - not just the systems themselves.
+
+**Source:** Log 011
+**Status:** Logged, awaiting canonization in next entry
+
+---
+
+### Index Links
+
+- `[[Digital_Frontier_Dispatch_008_Distribution_Network]]` → Rule #9
+- `[[Digital_Frontier_Dispatch_009_Leverage_Protocol]]` → Rule #10
+- `[[Digital_Frontier_Dispatch_010_Leverage_Points]]` → Rule #11
+- `[[Digital_Frontier_Dispatch_011_The_Control_Layers]]` → Rule #12
+
+**END CANON 01-11**
