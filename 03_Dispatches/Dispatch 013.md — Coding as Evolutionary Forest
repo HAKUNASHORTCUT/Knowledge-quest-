@@ -1,0 +1,170 @@
+‎# Dispatch 013 — Coding as Evolutionary Forest
+‎**Date:** 26 August 2026
+‎**Type:** Deep Field Note / Evolutionary Mapping
+‎**Gate:** #gate-0 #gate-4 #gate-5 #gate-7
+‎**Status:** OPEN — Principle Reinforced
+‎**Source:** KQ_FN_2026-08-26 + Captain Expansion
+‎**Parent:** [[Digital_Frontier_Dispatch_012_Command_As_Invariant]]
+‎**Tags:** #forest-model #coding-evolution #abstraction-stack #invariant #adaptation #evaluation
+‎
+‎---
+‎
+‎> Technology is the forest. It doesn't stop growing. The inhabitants survive by adapting.
+‎
+‎---
+‎
+‎## 1. The Forest Visible Through Coding
+‎
+‎Coding makes the evolutionary pattern almost visible:
+‎
+‎At each stage, something that once required scarce specialist knowledge becomes abstracted.
+‎
+‎**Law:** Abstraction doesn't remove work. It relocates human effort.
+‎
+‎Early programmers had to think very close to the machine. Later programmers worked with increasingly powerful abstractions. Today, someone can describe an intended behaviour and have AI generate substantial portions of implementation.
+‎
+‎**But that doesn't mean the forest has become easier to navigate. It means the terrain has changed.**
+‎
+‎---
+‎
+‎## 2. The Evolutionary Pattern — Canon
+‎
+‎A technology emerges.
+‎→ People learn it.
+‎→ It becomes infrastructure.
+‎→ New technology appears above it.
+‎→ Skills become less scarce in one layer and more valuable in another.
+‎→ The inhabitants adapt.
+‎→ Some resist.
+‎→ Some migrate.
+‎→ Some disappear.
+‎→ New inhabitants arrive.
+‎
+‎**This is not replacement. This is relocation.**
+‎
+‎---
+‎
+‎## 3. Coding Is Not Languages Replacing Languages
+‎
+‎Coding is a story of human capability continually relocating up the abstraction stack.
+‎
+‎| Era | Scarce Skill | Where Effort Lived |
+‎| :--- | :--- | :--- |
+‎| Machine code | Memory management, opcodes | Close to machine |
+‎| Procedural | Logic sequencing | Algorithm |
+‎| OOP | Modeling, reuse | Architecture |
+‎| Frameworks | Integration, velocity | Assembly of abstractions |
+‎| Cloud | Distribution, scale | Infrastructure |
+‎| AI-assisted | Prompt → Implementation | Intent → Command |
+‎| Agentic | Verification, accountability | Judgment + System Understanding |
+‎
+‎**The programmer doesn't disappear. The location of human effort moves.**
+‎
+‎Links to [[Rule_06_Layer]] — Locate your layer before you build your strategy.
+‎
+‎---
+‎
+‎## 4. The AI Coding Relocation
+‎
+‎The interesting question isn't:
+‎> Will AI replace coding?
+‎
+‎It may be:
+‎> What becomes the scarce human capability when producing code becomes dramatically cheaper?
+‎
+‎**Scarcity shifts to:**
+‎
+‎- Judgment
+‎- Architecture
+‎- Problem definition
+‎- Verification
+‎- System understanding
+‎- Taste
+‎- Accountability
+‎
+‎These are the invariant capabilities from Dispatch 012:
+‎
+‎When execution becomes cheap (AI generates code), value moves to:
+‎- **Choice** (what to build)
+‎- **Command** (how to direct it clearly)
+‎- **Feedback** (can you tell if it's right?)
+‎- **Adaptation** (can you steer it?)
+‎
+‎This is why [[Rule_13_Candidate_Command_As_Invariant]] matters:
+‎> The capacity to issue a meaningful command remains — and becomes MORE valuable when execution is cheap.
+‎
+‎---
+‎
+‎## 5. Survival Problem Remains
+‎
+‎> In your forest metaphor, the trees keep changing, but the survival problem remains. The inhabitants adapt — or find themselves living in yesterday's ecosystem.
+‎
+‎**New forest, same problem:**
+‎- Yesterday: Can you write the loop?
+‎- Today: Can you verify the agent's loop? Can you architect the system the agent builds within?
+‎
+‎**Links:**
+‎- [[Rule_07_Borrowed_Ground]] — Don't build permanent residence on borrowed abstraction
+‎- [[Rule_08_Portability]] — Can your capability survive migration?
+‎- [[Rule_10_Protocol]] — Map protocol, not interface — AI coding is new interface, command is protocol
+‎
+‎---
+‎
+‎## 6. Migration Without Announcement — The Crossroads Connection
+‎
+‎> Evaluation headstarts choice. An inhabitant doesn't need to announce "I am migrating to a new ecosystem."
+‎
+‎Migration pattern:
+‎
+‎**This is how forest inhabitants survive.**
+‎
+‎Not by debating the new ecosystem, but by quietly starting to live in it.
+‎
+‎**Field Instrument:**
+‎Watch what inhabitants *do* when forest changes — not what they *say* about it.
+‎
+‎- Who is already using AI to generate boilerplate?
+‎- Who is already verifying instead of writing?
+‎- Who has already relocated up the stack?
+‎
+‎That is early signal of migration.
+‎
+‎**Tags:** #evaluation-headstarts-choice #migration #crossroads
+‎
+‎---
+‎
+‎## 7. Principle Reinforced
+‎
+‎**From Dispatch 012:**
+‎> Tools evolve. Ecosystems evolve. Inhabitants evolve. But the capacity to issue a meaningful command remains.
+‎
+‎**Reinforced by Dispatch 013:**
+‎> Coding doesn't get easier. Human capability relocates. The scarce resource moves from production to judgment.
+‎
+‎**For Knowledge Quest:**
+‎The Knowledge Flywheel must be built for this relocation.
+‎- Don't optimize for producing more LOGs (execution cheap)
+‎- Optimize for judgment, architecture, verification, taste (scarce)
+‎
+‎This is [[KQ_LOG_2026-08-25]] — Inventory Before Intervention:
+‎> Prove the flywheel moves reliably before adding resources.
+‎
+‎Because when execution becomes cheap, the flywheel that can *evaluate* and *compound* wins.
+‎
+‎---
+‎
+‎## 8. Links
+‎
+‎**Parent:** [[Digital_Frontier_Dispatch_012_Command_As_Invariant]] — Command as Invariant
+‎**Grandparent:** [[KQ_FN_2026-08-26_Forest_Invariant_Command]]
+‎**Related Rules:** [[Rule_06_Layer]] | [[Rule_10_Protocol]] | [[Rule_11_Six_Layers]] | [[Rule_13_Candidate]]
+‎**Related KQ:** [[KQ_LOG_2026-08-25_Inventory_Before_Intervention]] — Inventory first
+‎**System Review:** [[LOG_085_Systems_Review_2026-08-13]] — Scale threshold
+‎
+‎**Tags:** #dispatch-013 #forest-evolution #abstraction-stack #ai-coding #judgment #architecture #gate-4 #gate-5
+‎
+‎END DISPATCH 013
+‎
+‎
+‎
+‎
