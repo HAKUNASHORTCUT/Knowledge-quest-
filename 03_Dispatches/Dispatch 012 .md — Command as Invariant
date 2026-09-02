@@ -1,0 +1,157 @@
+‎# Dispatch 012 — Command as Invariant
+‎**Date:** 2026-08-26
+‎**Type:** Knowledge Quest Dispatch / Principle Promotion
+‎**Gate:** #gate-4 #gate-5 #gate-0
+‎**Status:** PRINCIPLE CANDIDATE → RULE #13 CANDIDATE
+‎**Source:** KQ_FN_2026-08-26_Forest_Invariant_Command (Deepened)
+‎**Tags:** #invariant #command #intent #choice #forest-model #rule-13-candidate
+‎
+‎---
+‎
+‎> A command is the bridge between intention and action.
+‎
+‎---
+‎
+‎## 1. The Deeper Invariant
+‎
+‎The ecosystem can change — from stone tools to machines, from command lines to graphical interfaces, from code to natural language — but the underlying sequence persists:
+‎
+‎**This survived every transition.**
+‎
+‎The command doesn't have to be typed.
+‎
+‎- A programmer issues an instruction
+‎- A farmer decides *plant*
+‎- A scientist designs an experiment
+‎- An engineer specifies a requirement
+‎- A user tells an AI what to build
+‎
+‎Different ecosystems. Same fundamental act: **directing something toward an intended outcome.**
+‎
+‎---
+‎
+‎## 2. Forest Metaphor — Layer 2
+‎
+‎**Previous Layer:**
+‎> Technology is like a forest. Forest changes, inhabitants adapt.
+‎
+‎**New Layer:**
+‎> Tools evolve. Ecosystems evolve. Inhabitants evolve. But the capacity to issue a meaningful command remains.
+‎
+‎The invariant is not the tool. The invariant is the act.
+‎
+‎This is why Rule #10 holds:
+‎> Map protocol, not interface — Command is protocol.
+‎
+‎---
+‎
+‎## 3. Operating Sequence — Canon Form
+‎
+‎| Phase | Function | Failure Mode |
+‎| :--- | :--- | :--- |
+‎| **Choice** | Selects direction | No direction = drift |
+‎| **Command** | Initiates movement | No command = intention without action |
+‎| **Execution** | Creates consequence | No execution = fantasy |
+‎| **Feedback** | Creates learning | No feedback = repetition |
+‎| **Adaptation** | Adjusts model | No adaptation = extinction |
+‎| **Advance** | Compounds | No advance = stagnation |
+‎
+‎**Principle:**
+‎- Choice without command = wish
+‎- Command without execution = noise
+‎- Execution without feedback = waste
+‎- Feedback without adaptation = loop
+‎
+‎All four required for advance.
+‎
+‎---
+‎
+‎## 4. Connection to Human Choice
+‎
+‎This is why the earlier statement about human choice matters so much.
+‎
+‎**Choice selects the direction. Command initiates movement.**
+‎
+‎In any ecosystem — stone age, industrial, digital, AI-native — the being that can:
+‎1. Choose direction (intent)
+‎2. Issue clear command (bridge)
+‎3. Execute / delegate execution
+‎4. Read feedback
+‎5. Adapt
+‎
+‎...survives transition.
+‎
+‎**The command is the handoff between human agency and system capability.**
+‎
+‎This is the leverage point across all 6 layers:
+‎- **Compute:** Command → computation
+‎- **Payments:** Command → value transfer
+‎- **Identity:** Command → who is commanding
+‎- **Distribution:** Command → where it travels
+‎- **Trust:** Command → is command credible
+‎- **Data:** Command → what was learned
+‎
+‎Links directly to [[Rule_11_Six_Layers]]
+‎
+‎---
+‎
+‎## 5. Field Instrument — Upgraded
+‎
+‎**Original:**
+‎> When ecosystem changes, don't chase new surface first. Find what survived.
+‎
+‎**Upgraded:**
+‎> When ecosystem changes, don't chase new tool first. Find the invariant command sequence. What intent still matters? What command still initiates movement?
+‎
+‎**Test for any transition:**
+‎1. What survived the last transition? (Invariant)
+‎2. What command structure survived?
+‎3. What new surface now carries the same command?
+‎4. Who retained capacity to issue meaningful command?
+‎
+‎---
+‎
+‎## 6. Principle Candidate — Rule #13
+‎
+‎**Proposed Rule #13: Command as Invariant**
+‎
+‎> **Rule #13:** Tools evolve. Ecosystems evolve. Inhabitants evolve. But the sequence Intent → Command → Execution → Feedback → Adaptation → Advance persists. The capacity to issue a meaningful command is the invariant. Protect it.
+‎
+‎**Status:** Candidate — Awaiting 15+ LOG evidence
+‎**Gate:** #gate-4 Architecture / #gate-5 Leverage
+‎**Source:** [[KQ_FN_2026-08-26_Forest_Invariant_Command]]
+‎
+‎**Evidence Debt:**
+‎- Need 15+ examples across ecosystems (farmer, scientist, engineer, programmer, AI user)
+‎- Need to map command forms across transitions
+‎
+‎---
+‎
+‎## 7. Knowledge Quest Foundation — Strengthened
+‎
+‎This gives Knowledge Quest an unusually strong foundation:
+‎
+‎**The Quest itself is an exercise of the invariant:**
+‎- Choice: Decide what knowledge matters
+‎- Command: Issue field note / LOG
+‎- Execution: Document, publish, build
+‎- Feedback: Observe signals (S-001, S-002)
+‎- Adaptation: Refine inventory
+‎- Advance: Promote to Rule / Dispatch / Handbook
+‎
+‎> Knowledge Quest is not *about* the invariant. Knowledge Quest *is* the invariant in action.
+‎
+‎Meta-layer confirmed from [[KQ_LOG_2026-08-25]]: The Quest is already doing the work it was designed to do.
+‎
+‎---
+‎
+‎## 8. Links
+‎
+‎**Previous:** [[KQ_FN_2026-08-26_Forest_Invariant_Command]] — Forest, Invariant & Command
+‎**Related Rules:** [[Rule_10_Protocol]] | [[Rule_11_Six_Layers]] | [[Rule_06_Layer]]
+‎**Related LOGs:** [[KQ_LOG_2026-08-25_Inventory_Before_Intervention]] | [[LOG_085_Systems_Review_2026-08-13]]
+‎**Inventory:** [[INVENTORY.md]] — P-16 → P-16 upgraded to Rule #13 Candidate
+‎
+‎**Tags:** #dispatch-012 #command-invariant #rule-13-candidate #forest-model #choice #intent #gate-4 #gate-5
+‎
+‎END DISPATCH 012
