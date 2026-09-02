@@ -1,0 +1,155 @@
+‎# KQ Instrument — Crossroads Pattern Checklist
+‎**Date:** 26 August 2026
+‎**Type:** Pattern-Detection Instrument — NOT Prediction Machine
+‎**Purpose:** Prevent observation from becoming story too early
+‎**Gate:** #gate-3 #gate-4 #gate-6 #gate-7
+‎**Status:** ACTIVE INSTRUMENT
+‎**Parent:** [[Digital_Frontier_Dispatch_013_Coding_As_Evolutionary_Forest]]
+‎**Tags:** #instrument #crossroads #pattern-detection #evaluation #checklist
+‎
+‎---
+‎
+‎> Use it as a pattern-detection instrument, not a prediction machine.
+‎> Until we can answer with evidence, we're observing a signal, not announcing a migration.
+‎> That distinction is exactly what keeps the Knowledge Quest honest.
+‎
+‎---
+‎
+‎## 1. Directive
+‎
+‎A checklist against historical and present patterns is prudent — especially because it prevents the observation from becoming a story too early.
+‎
+‎**Rule:** Separate signal from story. Evidence before narrative.
+‎
+‎---
+‎
+‎## 2. Crossroads Pattern Checklist — 12 Stages
+‎
+‎For any ecosystem under stress, score each stage: **No Evidence / Weak Signal / Confirmed Evidence**
+‎
+‎| # | Stage | Signal | What to Measure | Status |
+‎| :--- | :--- | :--- | :--- | :--- |
+‎| 01 | **Friction Appears** | Limits, reliability, pricing, access, performance degrade | Support tickets, latency, pricing changes, rate limits | [ ] |
+‎| 02 | **Complaints Become Recurring** | Isolated dissatisfaction → visible theme | Frequency of same complaint across platforms, time | [ ] |
+‎| 03 | **Evaluation Begins** | Users compare alternatives rather than merely complain | Search: "alternative to X", comparison posts, benchmarks | [ ] |
+‎| 04 | **Experimentation Begins Quietly** | Users test competing systems | GitHub experiments, new tool usage, trial accounts | [ ] |
+‎| 05 | **Work is Diversified** | People stop relying on one system for everything | Multi-tool workflows, portfolio approach | [ ] |
+‎| 06 | **Portability Becomes Important** | Users ask whether workflows, knowledge, outputs can travel | Questions about export, migration, interoperability | [ ] |
+‎| 07 | **Switching Costs Become Visible** | What actually prevents migration? | Lock-in analysis: data, identity, distribution, trust | [ ] |
+‎| 08 | **Behaviour Precedes Declarations** | Usage patterns change before people announce migration | Usage data > declared intent. Quiet migration. | [ ] |
+‎| 09 | **Competitors Become Credible Substitutes** | Alternatives no longer feel experimental | Production use cases, not demos | [ ] |
+‎| 10 | **Network Effects Weaken** | Incumbent's ecosystem becomes less indispensable | Value of staying decreases | [ ] |
+‎| 11 | **Institutional Response Appears** | Pricing, limits, products or policies change | Incumbent reacts to evaluation | [ ] |
+‎| 12 | **Narrative Changes** | Yesterday's "Why would anyone leave?" → today's "Everyone uses several." | Media narrative shift | [ ] |
+‎| 13 | **Threshold is Crossed** | Individual choices accumulate into structural change | Market share, irreversible migration | [ ] |
+‎
+‎**Critical Checkpoint:**
+‎> **Has evaluation produced behaviour yet?**
+‎
+‎If No → Observing signal
+‎If Yes → Observing migration
+‎
+‎Until we can answer that with evidence, we're observing a signal, not announcing a migration.
+‎
+‎---
+‎
+‎## 3. Historical Control Questions
+‎
+‎For every present signal, ask:
+‎
+‎> **Where have we seen this sequence before — and where did the analogy fail?**
+‎
+‎**Purpose:** Test recurring mechanics, not map one-to-one analogy.
+‎
+‎**Control Set — Must test against:**
+‎
+‎| Historical Case | What Crossed | What Failed in Analogy? |
+‎| :--- | :--- | :--- |
+‎| **Yahoo** | Search → Portal → Search | — |
+‎| **Microsoft / Internet Explorer** | Browser dominance → standards shift | — |
+‎| **Nokia / Mobile** | Hardware dominance → software platform | — |
+‎| **BlackBerry / Smartphones** | Keyboard → touch + app ecosystem | — |
+‎| **MySpace / Social Networks** | Early network → stronger network | — |
+‎| **Cloud Migration** | On-prem → Cloud | — |
+‎| **Other Platform Transitions** | Incumbent → Modular challengers | — |
+‎
+‎**Rule:** Not because ChatGPT is any of them. Because we're looking for recurring mechanics of a crossroads.
+‎
+‎**Analogy Test Template:**
+‎
+‎---
+‎
+‎## 4. Scoring Protocol
+‎
+‎**Per ecosystem (e.g., coding assistants, LLM platforms, distribution layers):**
+‎
+‎- [ ] Score 01-13 for present day
+‎- [ ] Provide evidence link for each Confirmed
+‎- [ ] Separate: Confirmed Evidence / Interpretation / Hypothesis
+‎- [ ] Run Historical Control: 2+ analogies with failure points
+‎
+‎**Evidence Separation (Per KQ_LOG_2026-08-25 Protocol):**
+‎
+‎| Layer | Example |
+‎| :--- | :--- |
+‎| **Confirmed Evidence** | 3 users tested alternative in last 7 days (LOG links) |
+‎| **Interpretation** | Diversification starting |
+‎| **Hypothesis** | Crossroads stage 05 reached |
+‎| **Future Test** | Are they moving work or just experimenting? |
+‎
+‎---
+‎
+‎## 5. Connection to Forest Model
+‎
+‎**From Dispatch 012 + 013:**
+‎
+‎- Forest changes → friction appears (Stage 01)
+‎- Inhabitants evaluate → evaluation headstarts choice (Stage 03)
+‎- Quiet experimentation → behaviour precedes declarations (Stage 08)
+‎- Migration without announcement → threshold crossed (Stage 13)
+‎
+‎**Instrument:**
+‎> Watch what inhabitants *do* when forest changes — not what they *say* about it.
+‎
+‎This checklist operationalizes that.
+‎
+‎**Links to Invariant:**
+‎- Choice = Stages 01-03 (evaluation)
+‎- Command = Stages 04-05 (experimentation, diversification)
+‎- Execution = Stages 06-09 (portability, switching, credible substitutes)
+‎- Feedback = Stages 10-11 (network effects, institutional response)
+‎- Adaptation → Advance = Stages 12-13 (narrative change, threshold)
+‎
+‎---
+‎
+‎## 6. Application — Current Observations
+‎
+‎**Placeholder for active scoring:**
+‎
+‎**Ecosystem Under Observation:** [e.g., AI Coding Assistants / LLM Chat / Distribution]
+‎
+‎| Stage | Present Signal | Evidence Link | Score |
+‎| :--- | :--- | :--- | :--- |
+‎| 01 Friction | — | — | — |
+‎| 02 Complaints recurring | — | — | — |
+‎| 03 Evaluation begins | — | — | — |
+‎|... |... |... |... |
+‎
+‎**Critical Question:** Has evaluation produced behaviour yet?
+‎**Answer:** [ ] No evidence yet / [ ] Weak signal / [ ] Confirmed with LOGs
+‎
+‎---
+‎
+‎## 7. Links
+‎
+‎**Parent:** [[Digital_Frontier_Dispatch_013_Coding_As_Evolutionary_Forest]]
+‎**Grandparent:** [[Digital_Frontier_Dispatch_012_Command_As_Invariant]]
+‎**Related:** [[KQ_FN_2026-08-26_Forest_Invariant_Command]]
+‎**Rules:** [[Rule_05_Sentinel]] | [[Rule_06_Layer]] | [[Rule_08_Portability]] | [[Rule_10_Protocol]]
+‎**Inventory:** [[INVENTORY.md]] — New Instrument, new Pattern Candidates
+‎
+‎**Tags:** #instrument #crossroads-checklist #pattern-detection #not-prediction #evaluation #behaviour #gate-3 #gate-4
+‎
+‎END INSTRUMENT 2026-08-26
+‎
+‎
